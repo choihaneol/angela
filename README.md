@@ -12,4 +12,4 @@
 
 [e-mail](chu1004a@naver.com)
 
-[Lab.](http://pli.hanyang.ac.kr)
+[Laboratory](http://pli.hanyang.ac.kr)
