@@ -13,3 +13,13 @@
 [e-mail](chu1004a@naver.com)
 
 [Laboratory](http://pli.hanyang.ac.kr)
+---
+##Research Area
+- Industrial engineering
+- Scheduling
+- Airline scheduling
+- Crew scheduling
+---
+##Things of favorite
+-Meditation 
+-challenging
