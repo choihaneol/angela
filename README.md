@@ -11,7 +11,7 @@
 
 [Laboratory](http://pli.hanyang.ac.kr)
 
-e-mail chu1004a@gamil.com
+[e-mail](chu1004a@gmail.com)
 
 ---
 
