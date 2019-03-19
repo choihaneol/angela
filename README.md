@@ -3,7 +3,6 @@
 ---
 #### Hello guys!
 #### Welcome to Angela's repository.
-#### I'm Angela in PLI lab.
 ---
 ## Links and e-mail
 [Instagram](https://www.instagram.com/haneol_choi/)
@@ -22,6 +21,8 @@ e-mail chu1004a@gamil.com
 - Airline scheduling
 - Crew scheduling
 - Flexible manufacturing system
+- Simulation
+
 ---
 ## Things of favorite
 - Meditation 
