@@ -10,19 +10,19 @@
 
 [Facebook](https://www.facebook.com/haneol.choi.3)
 
-[e-mail](chu1004a@naver.com)
-
 [Laboratory](http://pli.hanyang.ac.kr)
+
+e-mail chu1004a@gamil.com
 
 ---
 
-##Research Area
+## Research Area
 - Industrial engineering
 - Scheduling
 - Airline scheduling
 - Crew scheduling
-
+- Flexible manufacturing system
 ---
-##Things of favorite
--Meditation 
--challenging
+## Things of favorite
+- Meditation 
+- challenging
