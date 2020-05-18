@@ -21,7 +21,7 @@
 - Airline scheduling
 - Crew scheduling
 - Flexible manufacturing system
-- Manufacturing Simulation
+- Manufacturing simulation
 
 ---
 
@@ -30,7 +30,7 @@
 - M.S. in Industrial enginerring, Hanyang University, Republic of Korea
 - B.S. in Industrial enginerring, Dankook University, Republic of Korea
 
---
+---
 
 ## Things of favorite
 - Challenging
