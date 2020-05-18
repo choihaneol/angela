@@ -13,14 +13,6 @@
 
 [e-mail] chu1004a@gmail.com
 
-
----
-
-## Backgroud
-
-- M.S. in Industrial enginerring, Hanyang University, Republic of Korea
-- B.S. in Industrial enginerring, Dankook University, Republic of Korea
-
 ---
 
 ## Research Area
@@ -29,14 +21,22 @@
 - Airline scheduling
 - Crew scheduling
 - Flexible manufacturing system
-- Simulation
+- Manufacturing Simulation
 
 ---
+
+## Backgroud
+
+- M.S. in Industrial enginerring, Hanyang University, Republic of Korea
+- B.S. in Industrial enginerring, Dankook University, Republic of Korea
+
+--
+
 ## Things of favorite
 - Challenging
 - Dreaming 
 - Shining, Shimering, Brighting things
-- Peaceful
+- Peaceful mind
 
 
 
