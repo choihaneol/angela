@@ -11,7 +11,15 @@
 
 [Laboratory](http://pli.hanyang.ac.kr)
 
-e-mail chu1004a@gmail.com
+[e-mail] chu1004a@gmail.com
+
+
+---
+
+## Backgroud
+
+- M.S. in Industrial enginerring, Hanyang University, Republic of Korea
+- B.S. in Industrial enginerring, Dankook University, Republic of Korea
 
 ---
 
@@ -25,5 +33,12 @@ e-mail chu1004a@gmail.com
 
 ---
 ## Things of favorite
-- Meditation 
-- challenging
+- Challenging
+- Dreaming 
+- Shining, Shimering, Brighting things
+- Peaceful
+
+
+
+
+
