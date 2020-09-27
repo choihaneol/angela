@@ -16,13 +16,17 @@
 ---
 
 ## Research Area
+
+- Vehicle security system
+- Public key Intrastructure
+
 - Industrial engineering
 - Scheduling
-- Airline scheduling
-- Crew scheduling
 - Flexible manufacturing system
 - Manufacturing simulation
 
+- Airline scheduling
+- Crew scheduling
 ---
 
 ## Backgroud
